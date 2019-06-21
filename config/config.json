@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Jujijan1987@",
+    "database": "nodejs_relationship_demo",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Jujijan1987@",
+    "database": "nodejs_relationship_demo",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Jujijan1987@",
+    "database": "nodejs_relationship_demo",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
