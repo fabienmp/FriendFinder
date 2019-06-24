@@ -217,7 +217,7 @@
                                     '</th></tr>').appendTo('#scoresTable');
 
                                 for (var rIndex = 0; rIndex < scoresArray.length; rIndex++) {
-                                    $('<tr><td> # ' + rIndex +
+                                    $('<tr><td> # ' + (rIndex + 1) +
                                         '</td><td>' + newFriend["q" + (rIndex + 1).toString()] +
                                         '</td><td>' + scoresArray[rIndex] +
                                         '</td></tr>').appendTo('#scoresTable');
