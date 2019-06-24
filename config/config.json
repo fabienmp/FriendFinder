@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "Jujijan1987@",
-    "database": "nodejs_relationship_demo",
-    "host": "localhost",
+    "username": "t6e01jbvup55jxin",
+    "password": "fmu2ct5yj3t4rec1",
+    "database": "yegyzp7k1ng99fv3",
+    "host": "edo4plet5mhv93s3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
-    "password": "Jujijan1987@",
-    "database": "nodejs_relationship_demo",
-    "host": "localhost",
+    "username": "t6e01jbvup55jxin",
+    "password": "fmu2ct5yj3t4rec1",
+    "database": "yegyzp7k1ng99fv3",
+    "host": "edo4plet5mhv93s3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": "Jujijan1987@",
-    "database": "nodejs_relationship_demo",
-    "host": "localhost",
+    "username": "t6e01jbvup55jxin",
+    "password": "fmu2ct5yj3t4rec1",
+    "database": "yegyzp7k1ng99fv3",
+    "host": "edo4plet5mhv93s3.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
