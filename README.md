@@ -3,17 +3,17 @@
 
 This application is a full-stack site that takes in results from surveys, then compare the answers with those existing in the database. The app will then display the answers and picture of the user with the best overall match.
 
-URL: https://ucb-ext-friend-finder.herokuapp.com/
+https://ucb-ext-friend-finder.herokuapp.com/
 
-# Input Validation
+## Input Validation
 
 Jquery Validate is a quick way to setup input validation for page. This works especially well when there are numerous inputs.
 
 https://jqueryvalidation.org/
 
-# Hosting
+## Hosting
 
-I used Heroku to host this application.
+I used Heroku to host this application. The link is provided in this readme file.
 
 http://www.heroku.com
 
